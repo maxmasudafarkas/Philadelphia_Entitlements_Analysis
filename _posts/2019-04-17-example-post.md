@@ -8,11 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-# Section 1
-
-This is an example post. The posts are written in markdown.
-
-## Zoning Permits as a Percentage of Total Permits
+# Zoning Permits as a Percentage of Total Permits
 
 Since 2007, the City of Philadelphia's Department of Licenses and Inspections has issued close to 700,000 permits. These permits range in kind: Electrical, plumbing, and building alteration permits are among the most commonly issued permit types. Of these nearly 700,000 permits, zoning and use permits make up a substantial portion, representing approximately 14% of the total. 
 
