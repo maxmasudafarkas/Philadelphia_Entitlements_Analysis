@@ -18,7 +18,7 @@ Since 2007, the City of Philadelphia's Department of Licenses and Inspections ha
 
 The number of zoning permits that are issued in a given year can serve as a proxy for the amount of development activity that took place in that year. Moreover, unlike alteration or electrical permits that may only signify modest changes to existing properties, a zoning permit often indicates that a property owner or developer is seeking to build something entirely new and which falls outside the ambit of the local land use code.
 
-Zoning permits can therefore function as a measure not only of a city's development activity, but of its economic health overall. Real estate development, especially of the kind that requires special land use permissions, ebbs and flows in concert with the surrounding economic conditions.
+Zoning permits can therefore function as a measure not only of a city's development activity, but of its economic health overall. Real estate development, especially of the scale that requires special land use permissions, ebbs and flows in concert with the surrounding economic conditions.
 
 This dynamic is demonstrated clearly in the below chart, which represents total zoning permits issued in Philadelphia over time. One first can discern a slight dip in the years following the Great Recession, succeeded by a steady rise until 2019. Most noticeably, there is a dramatic dropoff in the year 2020, likely a product of the economic shock caused by the 2020 coronavirus pandemic.
 
