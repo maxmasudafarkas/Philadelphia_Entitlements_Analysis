@@ -20,6 +20,6 @@ The number of zoning permits that are issued in a given year can serve as a prox
 
 Zoning permits can therefore function as a measure not only of a city's development activity, but of its economic health overall. Real estate development, especially of the scale that requires special land use permissions, ebbs and flows in concert with the surrounding economic conditions.
 
-This dynamic is demonstrated clearly in the below chart, which represents total zoning permits issued in Philadelphia over time. One first notices a slight dip in the years following the Great Recession, succeeded by a steady rise until 2019. Most noticeably, there is a dramatic dropoff in the year 2020, likely a product of the economic shock caused by the 2020 coronavirus pandemic.
+This dynamic is demonstrated clearly in the below chart, which represents total zoning permits issued in Philadelphia over time. One first notices a slight dip in the years following the Great Recession, succeeded by a steady rise until 2019. Most noticeably, there is a dramatic dropoff in the year 2020, likely a product of the economic shock caused by the coronavirus pandemic.
 
 ![zoning_permits_bar_chart]({{ site.url }}{{ site.baseurl }}/assets/images/zoning_permits_bar_chart.png)
