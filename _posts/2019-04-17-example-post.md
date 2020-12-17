@@ -12,4 +12,4 @@ toc_sticky: true
 
 Since 2007, the City of Philadelphia's Department of Licenses and Inspections has issued close to 700,000 permits. These permits range in kind: Electrical, plumbing, and building alteration permits are among the most commonly issued permit types. Of these nearly 700,000 permits, zoning and use permits make up a substantial portion, representing approximately 14% of the total. 
 
-![distances-abandoned-cars]({{ site.url }}{{ site.baseurl }}/assets/images/distance_to_abandoned_cars.png)
+![total_permits_pie_chart]({{ site.url }}{{ site.baseurl }}/assets/images/total_permits_pie_chart.png)
