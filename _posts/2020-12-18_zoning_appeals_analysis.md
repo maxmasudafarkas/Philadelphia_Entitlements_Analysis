@@ -4,9 +4,9 @@ date: 2020-12-18
 published: true
 tags: [dataviz, hvplot]
 excerpt: "Analyzing and mapping zoning appeals decisions in Philadelphia."
-folium-loader:
-  folium-chart-1: ["charts/foliumChart.html", "400"]
-  folium-chart-2: ["charts/percent_no_internet.html", "400"]
+hv-loader:
+  hv-chart-1: ["charts/total_neighborhood_appeals_approvals.html"]
+  hv-chart-2: ["charts/total_neighborhood_appeals_denials.html"]
 toc: true
 toc_sticky: true
 ---
@@ -19,12 +19,12 @@ The large majority of past ZBA decisions ultimately resulted in approval. These 
 
 ![total_appeals_decisions_bar_chart]({{ site.url }}{{ site.baseurl }}/assets/images/total_appeals_decisions_bar_chart.png
 
-<div id="folium-chart-1"></div>
+## ZBA Approvals and Denials by Neighborhood
 
-## Appeals Approvals and Denials by Neighborhood
+The properties at issue in the ZBA appeals can be located on the map. By using a choropleth map, we can visualize which neighborhoods in Philadelphia contain higher numbers of properties subject to appeals before the ZBA. Because appeals often signify that a proposed zoning permit does not fall within the ordinary exemptions that L&I will grant as a matter of course, the fact that a given neighborhood has experienced a large number of appeals relative to others can be revealing. It can be a signal of proportionally greater or more ambitious development activity, neighborhood change, or even a neighborhood's relative appetite for new development.
 
+The two choropleth maps below show, respectively, ZBA approvals and denials by neighborhood. The majority of appeals are clustered in (1) South Philadelphia in the Point Breeze and Graduate Hospital neighborhoods, (2) Fishtown, and (3) North Central.
 
+<div id="hv-chart-1"></div>
 
-<div id="folium-chart-2"></div>
-
-See the [lecture 9B slides](https://musa-550-fall-2020.github.io/slides/lecture-9B.html) and the [lecture 10A slides](https://musa-550-fall-2020.github.io/slides/lecture-10A.html) for the code that produced these plots.
+<div id="hv-chart-2"></div>
