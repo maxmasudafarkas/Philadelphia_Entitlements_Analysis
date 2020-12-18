@@ -17,9 +17,13 @@ A property owner who is denied a zoning or use permit by the Department of Licen
 
 The large majority of past ZBA decisions ultimately resulted in approval. These approvals, however, are often accompanied by a "proviso," obligating the developer to agree to some concession to reap the benefit of the ZBA's decision. These provisos can be as simple as mandating that the appellant install central air conditioning or as burdensome as requiring the appellant to seek an entirely separate approval from another municipal agency.
 
+![total_appeals_decisions_bar_chart]({{ site.url }}{{ site.baseurl }}/assets/images/total_appeals_decisions_bar_chart.png
+
 <div id="folium-chart-1"></div>
 
-## Percentage of Households without Internet
+## Appeals Approvals and Denials by Neighborhood
+
+
 
 <div id="folium-chart-2"></div>
 
