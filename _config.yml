@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "Predicting Administrative Caprice: Data Viz and Machine Learning in the Context of Philadelphia Zoning Approvals"
+title: "Predicting Administrative Caprice"
 title_separator: "-"
 name: "Max Masuda-Farkas"
-description: "Visualizing and predicting land use approvals and rejections in Philadelphia, Pennsylvania."
+description: "Data visualization and machine learning in the context of zoning approvals in Philadelphia, Pennsylvania."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
