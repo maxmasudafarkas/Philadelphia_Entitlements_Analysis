@@ -16,10 +16,10 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale: "en-US"
-title: "MUSA 550: Geospatial Data Science in Python"
+title: "Predicting Administrative Caprice: Data Viz and Machine Learning in the Context of Philadelphia Zoning Approvals"
 title_separator: "-"
-name: "Nick Hand"
-description: "Displaying cool data visualizations"
+name: "Max Masuda-Farkas"
+description: "Visualizing and predicting land use approvals and rejections in Philadelphia, Pennsylvania."
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -105,9 +105,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Nick Hand"
+  name: "Max Masuda-Farkas"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Director of Finance, Data, and Policy, Philadelphia Controller"
+  bio: "University of Pennsylvania"
   location: "Philadelphia"
   email:
   links:
