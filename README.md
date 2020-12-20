@@ -1,18 +1,17 @@
-# github-pages-starter
+# Predicting Administrative Caprice
 
-A template for including data visualizations in a Jekyll-powered blog with Github Pages.
+**Max Masuda-Farkas**
+**MUSA 550: Geospatial Data Science in Python**
+**December 21, 2020**
 
+The objective of this project is to quantify, visualize, and predict zoning approvals and rejections in Philadelphia.
 
-## Steps
-- Click on the "Use this template" button to create a new repository.
-- Choose a new name for your new repository
-- Go to the Settings section of your new repository, scroll down to the "Github Pages" section, and select the "Master" as the branch to be used for GitHub pages. This will automatically build the website. 
-- Customize your site
-  - Enter your site name, description, etc by editing the `_config.yml` file.
-  - There are 3 different ways that you can make changes to your blog's files:
-    - Edit files within your in the browser at GitHub.com
-    - Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io).
-    - Clone down your repository and make updates locally, then push them to your GitHub repository.
-- Publish a post
-  - Posts are written in Markdown and any files added to the `_posts` directory will be automatically uploaded and published
-  - Useful resource: [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/)
+This project draws upon three primary datasets: (1) a [dataset][https://www.opendataphilly.org/dataset/licenses-and-inspections-building-permits/resource/bf031e58-a3b6-436e-b0d5-d799c520b874] containing zoning permit issuances by the [Department of Licenses and Inspections][https://www.phila.gov/departments/department-of-licenses-and-inspections/] (L&I), (2) a [dataset][https://www.opendataphilly.org/dataset/license-and-inspections-appeals/resource/5cf0641c-d354-44cf-acaf-4a48ea8661ad] containing the zoning permit appeals decisions by the [Zoning Board of Adjustment][https://www.phila.gov/departments/zoning-board-of-adjustment/] (ZBA), and (3) a [dataset][https://www.opendataphilly.org/dataset/opa-property-assessments/resource/6fd97fd3-3d0a-4eb3-b9c8-87a91f4bfeff] from the [Office of Property Assessment][https://www.phila.gov/departments/office-of-property-assessment/] related to property data in Philadelphia.
+
+This project is divided into three related parts:
+
+1. An exploratory analysis of zoning permits issued by L&I
+2. An analysis and mapping of zoning appeals decisions by ZBA
+3. A machine learning model that predicts zoning appeals decision outcomes based on property features
+
+The fully rendered web page version of this project is available [here][https://maxmasudafarkas.github.io/Philadelphia_Zoning_Permits_and_Appeals/].
