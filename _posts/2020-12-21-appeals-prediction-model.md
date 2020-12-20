@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-Like the Olympian government agencies portrayed in the stories of Franz Kafka, zoning boards are notorious for being unpredictable and impossible to bargain with, plead as one might. Acquiring the requisite permits and entitlements can create a great deal of uncertainty for small property owners and large developers alike, adding excess costs to a real estate development process that is already excessively costly.
+Like the Olympian government agencies portrayed in the [stories][stories] of Franz Kafka, zoning boards are notorious for being unpredictable and impossible to bargain with, plead as one might. Acquiring the requisite permits and entitlements can create a great deal of uncertainty for small property owners and large developers alike, adding excess costs to a real estate development process that is already excessively costly.
 
 This problem begs an important question: Are zoning decisions as unpredictable as they often appear to be? Stated differently, are there metrics, or "features," which we can use to predict whether an agency will give a zoning appeal its blessing? The machine learning model below would suggest that the answer is, oftentimes, yes.
 
@@ -154,3 +154,5 @@ print("Score std dev = ", scores.std())
 > Score std dev =  0.005607792443237735
 
 A mean score of 0.733 indicates that our random forest model can serve as a fairly accurate tool to predict whether a zoning appeal will succeed or fail based on a given set of property characteristics. 
+
+[stories]: http://www.kkoworld.com/kitablar/Frans_Kafka_Mehkeme-ing.pdf
