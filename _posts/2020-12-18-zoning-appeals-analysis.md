@@ -21,7 +21,9 @@ The large majority of past ZBA decisions ultimately resulted in approval. These 
 
 ## ZBA Approvals and Denials by Neighborhood
 
-The properties at issue in the ZBA appeals can be located on the map. By using a choropleth map, we can visualize which neighborhoods in Philadelphia contain higher numbers of properties subject to appeals before the ZBA. Because appeals often signify that a proposed zoning permit does not fall within the ordinary exemptions that L&I will grant as a matter of course, the fact that a given neighborhood has experienced a large number of appeals relative to others can be revealing. It can be a signal of proportionally greater or more ambitious development activity, neighborhood change, or even a neighborhood's relative appetite for new development.
+The properties at issue in the ZBA appeals can be located on the map. By using a choropleth map, we can visualize which neighborhoods in Philadelphia contain higher numbers of properties subject to appeals before the ZBA. 
+
+Because appeals often signify that a proposed zoning permit does not fall within the ordinary exemptions that L&I will grant as a matter of course, the fact that a given neighborhood has experienced a large number of appeals relative to others can be revealing. It can be a signal of proportionally greater or more ambitious development activity, neighborhood change, or even a neighborhood's relative appetite for new development.
 
 The two choropleth maps below show, respectively, ZBA approvals and denials by neighborhood. The majority of appeals are clustered in (1) South Philadelphia in the Point Breeze and Graduate Hospital neighborhoods, (2) Fishtown, and (3) North Central.
 
