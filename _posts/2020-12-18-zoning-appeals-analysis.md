@@ -5,8 +5,8 @@ published: true
 tags: [dataviz, hvplot]
 excerpt: "Analyzing and mapping zoning appeals decisions in Philadelphia."
 hv-loader:
-  hv-chart-1: ["charts/total_neighborhood_appeals_approvals.html"]
-  hv-chart-2: ["charts/total_neighborhood_appeals_denials.html"]
+  hv-chart-1: "charts/total_neighborhood_appeals_approvals.html",
+  hv-chart-2: "charts/total_neighborhood_appeals_denials.html"
 toc: true
 toc_sticky: true
 ---
