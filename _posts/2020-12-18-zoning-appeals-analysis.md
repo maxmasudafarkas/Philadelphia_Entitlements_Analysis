@@ -28,5 +28,3 @@ Because appeals often signify that a proposed zoning permit does not fall within
 The two choropleth maps below show, respectively, ZBA approvals and denials by neighborhood. The majority of appeals are clustered in (1) South Philadelphia in the Point Breeze and Graduate Hospital neighborhoods, (2) Fishtown, and (3) North Central.
 
 <div id="hv-chart-1"></div>
-
-<div id="hv-chart-2"></div>
