@@ -1,9 +1,7 @@
 # Predicting Administrative Caprice
 
-**Max Masuda-Farkas**
-
-**MUSA 550: Geospatial Data Science in Python**
-
+**Max Masuda-Farkas** 
+**MUSA 550: Geospatial Data Science in Python** 
 **December 21, 2020**
 
 The objective of this project is to quantify, visualize, and predict zoning approvals and rejections in Philadelphia.
