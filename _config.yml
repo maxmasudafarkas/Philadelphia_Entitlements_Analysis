@@ -107,8 +107,8 @@ analytics:
 author:
   name: "Max Masuda-Farkas"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "University of Pennsylvania"
-  location: "Philadelphia"
+  bio: 
+  location: "Los Angeles, CA"
   email:
   links:
     - label: "Email"
