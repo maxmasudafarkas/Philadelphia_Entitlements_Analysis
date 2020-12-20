@@ -8,7 +8,9 @@ toc: true
 toc_sticky: true
 ---
 
-The permitting and entitlement process is notoriously unpredictable and can add significant delays to the development process for small property owners and large developers alike. Like the Olympian governmental agencies portrayed in the stories of Franz Kafka, zoning boards such as Philadelphia's Zoning Board of Adjustment are often accused of making decisions on whim and will alone. 
+Like the Olympian government agencies portrayed in the stories of Franz Kafka, zoning boards are notorious for being unpredictable and impossible to bargain with, plead as one might. Acquiring the requisite permits and entitlements can therefore create a great deal of uncertainty for small property owners and large developers alike, adding excess costs to a real estate development process that is already excessively costly.
+
+This problem begs an important question: Are zoning decisions as unpredictable as they often appear to be? Stated differently, are there metrics, or "features," which we can use to predict whether an agency will give a zoning appeal its blessing? The machine learning model below would suggest that the answer is, sometimes, yes.
 
 ## Altair Example
 
