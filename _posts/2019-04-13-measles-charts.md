@@ -1,18 +1,14 @@
 ---
-title: "Example: Embedding Altair & Hvplot Charts"
-date: 2019-04-13
+title: "Zoning Appeals Decision Prediction Model"
+date: 2020-12-21
 published: true
-tags: [dataviz, altair, hvplot, holoviews]
-excerpt: "Embedding interactive charts on static pages using Jekyll."
-altair-loader:
-  altair-chart-1: "charts/measlesAltair.json"
-hv-loader:
-  hv-chart-1: "charts/measlesHvplot.html"
+tags: [dataviz]
+excerpt: "Using scikit-learn to predict whether a zoning permit appeal will be approved or denied by the Philadelphia Zoning Board of Adjustment."
 toc: true
 toc_sticky: true
 ---
 
-This post will show examples of embedding interactive charts produced using [Altair](https://altair-viz.github.io) and [Hvplot](https://hvplot.pyviz.org/).
+The permitting and entitlement process is notoriously unpredictable and can add significant delays to the development process for small property owners and large developers alike. Like the Olympian governmental agencies portrayed in the stories of Franz Kafka, zoning boards such as Philadelphia's Zoning Board of Adjustment are often accused of making decisions on whim and will alone. 
 
 ## Altair Example
 
