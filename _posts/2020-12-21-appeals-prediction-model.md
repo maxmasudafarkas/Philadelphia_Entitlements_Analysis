@@ -1,5 +1,5 @@
 ---
-title: "Zoning Appeals Decision Prediction Model"
+title: "Part III: Zoning Appeals Decision Prediction Model"
 date: 2020-12-21
 published: true
 tags: [dataviz]
